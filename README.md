@@ -3,7 +3,7 @@
 
 In this repository, AMP SCZ investigators can share scripts that they use on the AWS workspace  
 
-As an example, we have created a first folder called: npenzel_derive_clinical_outcomes_nda2.  
+As an example, we have created a first folder called: npenzel_derive_interview_outcomes_nda2.  
 In this folder, we include 3 scripts:  
 
 1.) create_auxiliary_df.R (extracts key variables for all subjects included in NDA2)  
