@@ -1,4 +1,4 @@
-# shared_scripts_aws
+# aws_workspace_scripts
 In this repository, AMP SCZ investigators can share scripts that they use on the AWS workspace
 As 3 examples we have the script: 
 1.) create_auxiliary_df.R (extracts key variables for all subjects included in NDA2)
